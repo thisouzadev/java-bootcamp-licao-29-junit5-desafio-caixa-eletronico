@@ -11,6 +11,7 @@ class BancoTest {
   @DisplayName("1 - Testa o gerador de número único para nova conta.")
   void gerarNumeroNovaContaTest() {
     fail("Não implementado");
+
   }
 
   @Test
